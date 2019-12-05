@@ -31,5 +31,5 @@ end
 def square_root(num)
 square_root = Math.sqrt(num)
 print square_root
-return mod
+return square_root
 end
